@@ -6,7 +6,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 The `cm-angular-org-chart` component displays heirarchal Organizational Chart.
 
-![Org Chart]
+![Org Chart](https://github.com/chandumaram/org-chart/blob/master/src/assets/org-chart-vertical.png)
 
 ## Table of Contents
 
@@ -173,11 +173,11 @@ Ex:   <org-chart [topEmployee]="topEmployee" direction="vertical" (itemClick)="o
 
 ### Horizontal
 
-![Horizontal Chart]
+![Horizontal Chart](https://github.com/chandumaram/org-chart/blob/master/src/assets/org-chart-horizontal.png)
 
 ### Vertical
 
-![Vertical Chart]
+![Vertical Chart](https://github.com/chandumaram/org-chart/blob/master/src/assets/org-chart-vertical.png)
 
 
 ## Custom Styling
