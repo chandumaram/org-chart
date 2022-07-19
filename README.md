@@ -223,8 +223,8 @@ You can override default styles with your custom SCSS. Make sure you include you
     }
 ```
 
-<!-- ## License
-MIT -->
+## License
+MIT
 
 ## Author
 - Maram Chandrasekhar Reddy [@chandumaram](https://github.com/chandumaram)
