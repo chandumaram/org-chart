@@ -32,7 +32,7 @@ Each employee is represented by an object with the following properties. Note th
 ### Installation
 
 ```sh
-$ npm install @mondal/org-chart
+$ npm i cm-angular-org-chart
 ```
 
 ### `app.module.ts`
@@ -222,4 +222,11 @@ You can override default styles with your custom SCSS. Make sure you include you
 	background-color: purple;
     }
 ```
+
+<!-- ## License
+MIT -->
+
+## Author
+- Maram Chandrasekhar Reddy [@chandumaram](https://github.com/chandumaram)
+
 
