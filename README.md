@@ -2,19 +2,26 @@
 
 # Hierarchical Organization Chart for Angular 14 and above versions
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
-
 The `cm-angular-org-chart` component displays heirarchal Organizational Chart.
 
 ![Org Chart](https://github.com/chandumaram/org-chart/blob/master/src/assets/org-chart-vertical.png)
 
 ## Table of Contents
 
+ * [Version](#Version)
  * [Usage](#usage)
  * [Inputs](#inputs)
  * [Outputs](#outputs)
  * [Default Look](#default-look)
  * [Custom Styling](#custom-styling)
+
+
+## Version
+
+| Angular | cm-angular-org-chart |
+|---|---|
+|`15`|`2.0.0`|
+|`14`|`1.1.3`|
  
 
 ## Usage
