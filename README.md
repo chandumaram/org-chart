@@ -1,8 +1,10 @@
 ## CM-ANGULAR-ORG-CHART UI
 
-# Hierarchical Organization Chart for Angular 14 and above versions
+# Hierarchical Organization Chart for Angular v14, v15 and v16 versions
 
 The `cm-angular-org-chart` component displays heirarchal Organizational Chart.
+
+Please install latest version for Error free.
 
 ![Org Chart](https://github.com/chandumaram/org-chart/blob/master/src/assets/org-chart-vertical.png)
 
@@ -20,9 +22,10 @@ The `cm-angular-org-chart` component displays heirarchal Organizational Chart.
 
 | Angular | cm-angular-org-chart |
 |---|---|
+|`16`|`3.0.0`|
 |`15`|`2.0.0`|
 |`14`|`1.1.3`|
- 
+
 
 ## Usage
 
@@ -235,5 +238,4 @@ MIT
 
 ## Author
 - Maram Chandrasekhar Reddy [@chandumaram](https://github.com/chandumaram)
-
 
