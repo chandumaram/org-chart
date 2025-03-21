@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { CmOrgChartComponent } from 'cm-angular-org-chart';
+import { CmAngularOrgChartComponent } from 'cm-angular-org-chart';
 
 @NgModule({
   declarations: [
@@ -11,7 +11,7 @@ import { CmOrgChartComponent } from 'cm-angular-org-chart';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    CmOrgChartComponent
+    CmAngularOrgChartComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
