@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { CmAngularOrgChartModule } from 'cm-angular-org-chart';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { CmOrgChartComponent } from 'cm-angular-org-chart';
+
 @NgModule({
   declarations: [
     AppComponent
@@ -11,7 +11,7 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    CmAngularOrgChartModule
+    CmOrgChartComponent
   ],
   providers: [],
   bootstrap: [AppComponent]

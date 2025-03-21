@@ -1,4 +1,5 @@
 <!-- <div class="orgChart-box"> -->
-  <!-- <org-chart [topEmployee]="topEmployee" direction="horizontal" (itemClick)="test($event)"></org-chart> -->
-  <org-chart style="display: inline-grid;" [topEmployee]="topEmployee" direction="vertical" (itemClick)="onClickItem($event)"></org-chart>
+<!-- <org-chart [topEmployee]="topEmployee" direction="horizontal" (itemClick)="test($event)"></org-chart> -->
+<org-chart style="display: inline-grid;" *ngIf="topEmployee" [topEmployee]="topEmployee" direction="vertical"
+  (itemClick)="onClickItem($event)"></org-chart>
 <!-- </div> -->
